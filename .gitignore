@@ -1,0 +1,5 @@
+*.zip
+__pycache__/
+.DS_Store
+bank-full.csv
+bank-additional.zip
